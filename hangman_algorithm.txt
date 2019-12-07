@@ -1,0 +1,12 @@
+Objective: The objective of this program is to make a hangman game.
+
+Algorithm:
+    1) Define a fuction that randomly selects a word from a text dictionary/list
+    2) Define a function that takes input from the user for each letter guessed
+    3) Define function wthat will take the lettergussed corectly and turn it into a string
+    4) Create variables to store dta that they use to enters
+        a) Create a variable that stores the word that the computer picks
+        b) Create 2 variables, one that holds the corret letters guessed and one that holds the wrong letters guessed
+    5) Display an introduction to the program so the users will know what to do
+    6) Create a loop that will allow the user to keep guessing until they win or run out of trials
+    7) Add statement at the beginning and the end of the game to welcome uers and thank them for playing  
